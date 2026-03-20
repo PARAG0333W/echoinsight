@@ -1,0 +1,7 @@
+Customer: I need to schedule a technician visit.
+
+Agent: Sure, I can help with that.
+
+Customer: When is the earliest available slot?
+
+Agent: The earliest appointment available is tomorrow at 10 AM.

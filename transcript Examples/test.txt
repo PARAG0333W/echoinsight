@@ -1,0 +1,7 @@
+Customer: My laptop keeps shutting down randomly.
+
+Agent: I'm sorry you're facing this issue. When did this problem start?
+
+Customer: It started yesterday evening.
+
+Agent: Thank you. Please check if the laptop is overheating or if any updates were installed recently.

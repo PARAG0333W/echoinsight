@@ -1,0 +1,7 @@
+Customer: I was charged twice for my subscription this month.
+
+Agent: I'm sorry for that issue. Let me check the billing details for you.
+
+Customer: Yes please, I need a refund.
+
+Agent: I can confirm the duplicate charge. I will process the refund immediately.
