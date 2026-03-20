@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+@config "../../tailwind.config.cjs";
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-background text-foreground font-sans antialiased;
+}
+
+.app-shell {
+  @apply min-h-screen flex bg-background text-foreground;
+}
+
+.card {
+  @apply bg-card border border-border rounded-lg shadow-subtle;
+}
